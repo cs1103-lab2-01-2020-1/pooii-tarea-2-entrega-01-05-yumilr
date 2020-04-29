@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/tareas_poo.dir/src/Ejercicios.cpp.o CMakeFiles/tareas_poo.dir/src/MyStackGeneric.cpp.o CMakeFiles/tareas_poo.dir/src/MyStackInt.cpp.o CMakeFiles/tareas_poo.dir/src/main.cpp.o  -o tareas_poo 

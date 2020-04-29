@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/pooii-tarea-2-entrega-01-05-yumilr.dir/src/Ejercicios.cpp.o CMakeFiles/pooii-tarea-2-entrega-01-05-yumilr.dir/src/MyStackGeneric.cpp.o CMakeFiles/pooii-tarea-2-entrega-01-05-yumilr.dir/src/MyStackInt.cpp.o CMakeFiles/pooii-tarea-2-entrega-01-05-yumilr.dir/src/main.cpp.o  -o pooii-tarea-2-entrega-01-05-yumilr 

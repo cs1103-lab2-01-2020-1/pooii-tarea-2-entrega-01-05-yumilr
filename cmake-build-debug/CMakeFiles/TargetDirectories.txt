@@ -1,0 +1,3 @@
+/home/jlr/CLionProjects/pooii-tarea-2-entrega-01-05-yumilr/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jlr/CLionProjects/pooii-tarea-2-entrega-01-05-yumilr/cmake-build-debug/CMakeFiles/pooii-tarea-2-entrega-01-05-yumilr.dir
+/home/jlr/CLionProjects/pooii-tarea-2-entrega-01-05-yumilr/cmake-build-debug/CMakeFiles/edit_cache.dir
