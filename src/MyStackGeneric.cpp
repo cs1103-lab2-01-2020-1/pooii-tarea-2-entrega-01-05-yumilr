@@ -24,11 +24,11 @@ T MyStackGeneric<T>::top(){
     return this->mipila[this->size-1];
 }
 
-//template <class T>
-//ostream& operator<< (ostream& os, const MyStackGeneric<T>& A){
-//    for (int i = 0; i <A.size; ++i) {
-//        os <<'['<<A.mipila.at(i)<<']';
-//    }
-//    os << endl;
-//    return os;
-//}
+template <class E>
+ostream& operator<< (ostream& os, const MyStackGeneric<E>& A){
+    for (int i = 0; i <A.size; ++i) {
+        os <<'['<<A.mipila.at(i)<<']';
+    }
+    os << endl;
+    return os;
+}

@@ -2,7 +2,7 @@
 
 int main() {
 
-    Ejercicio1();
+  //  Ejercicio1();
     Ejercicio2();
     Ejercicio3();
     Ejercicio4();

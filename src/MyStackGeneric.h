@@ -14,13 +14,8 @@ class MyStackGeneric{
         void push(T);
         void pop();
         T top();
-        friend ostream& operator<< (ostream& os, const MyStackGeneric<T>& A){
-            for (int i = 0; i <A.size; ++i) {
-                os <<'['<<A.mipila.at(i)<<']';
-            }
-            os << endl;
-            return os;
-        };
+        template<class E>
+        friend ostream& operator<< (ostream& os, const MyStackGeneric<E>& A);
 };
 
 #endif
