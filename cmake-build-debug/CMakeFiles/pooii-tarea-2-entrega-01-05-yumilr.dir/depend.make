@@ -6,7 +6,12 @@ CMakeFiles/pooii-tarea-2-entrega-01-05-yumilr.dir/src/Ejercicios.cpp.o: ../src/E
 CMakeFiles/pooii-tarea-2-entrega-01-05-yumilr.dir/src/Ejercicios.cpp.o: ../src/MyStackGeneric.cpp
 CMakeFiles/pooii-tarea-2-entrega-01-05-yumilr.dir/src/Ejercicios.cpp.o: ../src/MyStackGeneric.h
 CMakeFiles/pooii-tarea-2-entrega-01-05-yumilr.dir/src/Ejercicios.cpp.o: ../src/MyStackInt.h
+CMakeFiles/pooii-tarea-2-entrega-01-05-yumilr.dir/src/Ejercicios.cpp.o: ../src/SistemaL.cpp
+CMakeFiles/pooii-tarea-2-entrega-01-05-yumilr.dir/src/Ejercicios.cpp.o: ../src/SistemaL.h
 CMakeFiles/pooii-tarea-2-entrega-01-05-yumilr.dir/src/Ejercicios.cpp.o: ../src/lib.h
+CMakeFiles/pooii-tarea-2-entrega-01-05-yumilr.dir/src/Ejercicios.cpp.o: ../src/producto.h
+CMakeFiles/pooii-tarea-2-entrega-01-05-yumilr.dir/src/Ejercicios.cpp.o: ../src/usuario.cpp
+CMakeFiles/pooii-tarea-2-entrega-01-05-yumilr.dir/src/Ejercicios.cpp.o: ../src/usuario.h
 
 CMakeFiles/pooii-tarea-2-entrega-01-05-yumilr.dir/src/MyStackGeneric.cpp.o: ../src/MyStackGeneric.cpp
 CMakeFiles/pooii-tarea-2-entrega-01-05-yumilr.dir/src/MyStackGeneric.cpp.o: ../src/MyStackGeneric.h

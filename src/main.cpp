@@ -2,7 +2,7 @@
 
 int main() {
 
-  //  Ejercicio1();
+//    Ejercicio1();    en proceso
     Ejercicio2();
     Ejercicio3();
     Ejercicio4();

@@ -19,5 +19,6 @@ class SistemaL{
         void menu_sistema();
         void menu_pedido();
         void menu_orden();
+        void encontrar_usuario(Usuario);
 };
 #endif //POOII_TAREA_2_ENTREGA_01_05_YUMILR_MENU_H

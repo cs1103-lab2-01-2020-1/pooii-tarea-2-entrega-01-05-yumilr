@@ -15,6 +15,14 @@ MyStackGeneric.cpp
 /home/jlr/CLionProjects/pooii-tarea-2-entrega-01-05-yumilr/src/MyStackGeneric.cpp
 MyStackInt.h
 /home/jlr/CLionProjects/pooii-tarea-2-entrega-01-05-yumilr/src/MyStackInt.h
+SistemaL.h
+/home/jlr/CLionProjects/pooii-tarea-2-entrega-01-05-yumilr/src/SistemaL.h
+SistemaL.cpp
+/home/jlr/CLionProjects/pooii-tarea-2-entrega-01-05-yumilr/src/SistemaL.cpp
+usuario.h
+/home/jlr/CLionProjects/pooii-tarea-2-entrega-01-05-yumilr/src/usuario.h
+usuario.cpp
+/home/jlr/CLionProjects/pooii-tarea-2-entrega-01-05-yumilr/src/usuario.cpp
 
 /home/jlr/CLionProjects/pooii-tarea-2-entrega-01-05-yumilr/src/Ejercicios.h
 lib.h
@@ -32,6 +40,20 @@ lib.h
 lib.h
 /home/jlr/CLionProjects/pooii-tarea-2-entrega-01-05-yumilr/src/lib.h
 
+/home/jlr/CLionProjects/pooii-tarea-2-entrega-01-05-yumilr/src/SistemaL.cpp
+SistemaL.h
+/home/jlr/CLionProjects/pooii-tarea-2-entrega-01-05-yumilr/src/SistemaL.h
+lib.h
+/home/jlr/CLionProjects/pooii-tarea-2-entrega-01-05-yumilr/src/lib.h
+
+/home/jlr/CLionProjects/pooii-tarea-2-entrega-01-05-yumilr/src/SistemaL.h
+lib.h
+/home/jlr/CLionProjects/pooii-tarea-2-entrega-01-05-yumilr/src/lib.h
+usuario.h
+/home/jlr/CLionProjects/pooii-tarea-2-entrega-01-05-yumilr/src/usuario.h
+producto.h
+/home/jlr/CLionProjects/pooii-tarea-2-entrega-01-05-yumilr/src/producto.h
+
 /home/jlr/CLionProjects/pooii-tarea-2-entrega-01-05-yumilr/src/lib.h
 iostream
 -
@@ -45,4 +67,16 @@ string
 -
 algorithm
 -
+
+/home/jlr/CLionProjects/pooii-tarea-2-entrega-01-05-yumilr/src/producto.h
+lib.h
+/home/jlr/CLionProjects/pooii-tarea-2-entrega-01-05-yumilr/src/lib.h
+
+/home/jlr/CLionProjects/pooii-tarea-2-entrega-01-05-yumilr/src/usuario.cpp
+usuario.h
+/home/jlr/CLionProjects/pooii-tarea-2-entrega-01-05-yumilr/src/usuario.h
+
+/home/jlr/CLionProjects/pooii-tarea-2-entrega-01-05-yumilr/src/usuario.h
+lib.h
+/home/jlr/CLionProjects/pooii-tarea-2-entrega-01-05-yumilr/src/lib.h
 

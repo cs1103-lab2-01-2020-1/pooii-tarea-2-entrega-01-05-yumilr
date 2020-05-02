@@ -2,10 +2,10 @@
 #include "MyStackGeneric.h"
 #include "MyStackGeneric.cpp"
 #include "MyStackInt.h"
-//#include "SistemaL.h"
-//#include "SistemaL.cpp"
-//#include "usuario.h"
-//#include "usuario.cpp"
+#include "SistemaL.h"
+#include "SistemaL.cpp"
+#include "usuario.h"
+#include "usuario.cpp"
 
 void printList(list<int> mylist, string title){
     cout<<title;
@@ -15,8 +15,8 @@ void printList(list<int> mylist, string title){
     cout<<endl;
 }
 void Ejercicio1(){
- //   SistemaL menu;
-//    imprimir_menu(menu);
+    SistemaL menu;
+    menu.menu_inicial();
 }
 void Ejercicio2(){
     cout<<"EJERCICIO 2:\n------------"<<endl;
